@@ -4,9 +4,10 @@
   ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=joojae02%20&fontSize=90)
  
   <hr/>
-   🎓 숭실대 소프트웨어학과 (2021.03 ~ )
   
-   🌱 42서울 9기 (2023.02 ~ )
+  #### 🎓 숭실대 소프트웨어학과 (2021.03 ~ )
+  #### 🌱 42서울 9기 (2023.02 ~ )
+  
   <hr/>
   
   [![joojae02's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojae02)](https://github.com/anuraghazra/github-readme-stats)
