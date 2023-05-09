@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=joojae02%20&fontSize=90)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=joojae02%20&fontSize=90)
  
   <hr/>
   
