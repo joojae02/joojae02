@@ -43,12 +43,10 @@
 
   
   <hr/>
-  <div>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=joojae02&theme=dark"/>
-  <img src="http://mazassumnida.wtf/api/generate_badge?boj=jake0104"/>
-
-  </div>
+  
+  [![joojae02's GitHub stats](https://github-readme-stats.vercel.app/api?username=joojae02&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake0104)](https://solved.ac/jake0104)  
 
   <hr/>
   
