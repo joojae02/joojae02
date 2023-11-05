@@ -6,6 +6,8 @@
   <hr/>
   <img width="400" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/>  
   <hr/>
+  
+  ## 🙇 Find me here
 
   [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/joojae_02/)
   [<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white"/>](https://blog.joojae.synology.me/)
