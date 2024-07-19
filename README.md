@@ -53,7 +53,7 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake0104)](https://solved.ac/jake0104)  
 
-  ![](https://github-profile-trophy.vercel.app/?username=joojae02&theme=onedark)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=joojae02&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
   <hr/>
   
