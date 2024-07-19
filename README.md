@@ -53,6 +53,8 @@
   
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jake0104)](https://solved.ac/jake0104)  
 
+  ![](https://github-profile-trophy.vercel.app/?username=joojae02&theme=onedark)
+
   <hr/>
   
   [![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joojae02&layout=compact&theme=dark)](https://wakatime.com/@joojae02)
