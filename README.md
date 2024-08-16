@@ -9,8 +9,7 @@
   
   ## 🙇 Find me here
 
-  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/joojae_02/)
-  [<img src="https://img.shields.io/badge/About ME-000000?style=for-the-badge&logo=ghost&logoColor=white"/>](https://blog.joojae.synology.me/about/)
+  [<img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=ghost&logoColor=white"/>](https://joojae.com/)
   [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:jake010417@gmail.com)
 
   ## 💻 My Stack
