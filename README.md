@@ -1,11 +1,5 @@
 
-<div align="center">
-  
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=180&section=header&text=joojae02%20&fontSize=80)
-  
-  <hr/>
-  <img width="400" src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbQkf1K%2FbtqDPXS1Qyj%2Fompc4qYBOkAS5U1JhNR8b1%2Fimg.gif"/>  
-  <hr/>
+<div align="center">  
   
   ## 🙇 Find me here
 
@@ -18,8 +12,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white"/>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <br/>
-
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
