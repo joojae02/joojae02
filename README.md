@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
   <br/>
 
-
+<!--
   
   <hr/>
   
@@ -49,6 +49,7 @@
   
   [![joojae02's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joojae02&layout=compact&theme=dark)](https://wakatime.com/@joojae02)
   
+-->
 
   
 </div>
